@@ -2,7 +2,7 @@
 holding page for Mansfield Bowling Club
 
 # Screenshot of the website
-![Mansfield Bowling Club Desktop-png](https://user-images.githubusercontent.com/63976154/183957536-b010b3a8-1862-47d3-9446-a07af0fd431d.png)
+![Mansfield Bowling Club](https://user-images.githubusercontent.com/63976154/183941761-c123290e-731d-4c86-9046-9b0f6d0b7443.png)
 
 
 
